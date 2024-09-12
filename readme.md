@@ -38,4 +38,6 @@ Positions are opened using *limit orders* at these price points. This strategy h
    If the price is trading below the daily SMA, the bot calculates potential sell prices (sp_1 and sp_2) based on the 15-minute SMA and opens a short position.
 
 
-This trading bot is developed for educational and experimental purposes only. It is not intended for live trading or financial use. Users should not rely on it for actual trading, and the creators are not responsible for any financial losses incurred by using this software.
+
+
+*This trading bot is developed for educational and experimental purposes only. It is not intended for live trading or financial use. Users should not rely on it for actual trading, and the creators are not responsible for any financial losses incurred by using this software.*
